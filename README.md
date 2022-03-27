@@ -10,7 +10,6 @@ I leave all my old repo's on here, to show the journey I have been through, no m
 
 Please feel free to contact me about contributions, feedback, etc!
 
-This is my old portfolio, which I built when I was learning about express and mongo. At the moment I am building a new one.
-https://kind-shaw-87f836.netlify.app/
+
 
 
